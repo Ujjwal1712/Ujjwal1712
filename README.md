@@ -16,17 +16,23 @@
   
 <div class="paper image">
   <p> and I fallen in</p>
-    <p>I Like You 😍 </p>
-   
+    <p>Love with You 😍 </p>
+   <img src="images/1.jpeg" />
+</div>
+
 <div class="paper image">
   <p</p>
-  
+  <img src="images/2.jpeg" />
+</div>
 
 <div class="paper image">
   <p>How can be </p>
    <p> someone so cute ❤️ </p>
 
-  
+  <img src="images/3.jpg" />
+</div>
+
+
 
 <div class="paper red">
 <p class="p1"> and My Favorite</p>
