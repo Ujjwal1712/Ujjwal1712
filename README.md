@@ -16,7 +16,7 @@
   
 <div class="paper image">
   <p> and I fallen in</p>
-    <p>Love with You 😍 </p>
+    <p>I Like You 😍 </p>
    
 <div class="paper image">
   <p</p>
